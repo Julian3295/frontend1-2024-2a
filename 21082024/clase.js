@@ -18,3 +18,4 @@ console.log ("ejercicio 4")
 const p = (a>b) && (!l) || (x**3 == 30)
 console.log("el resultado "+p)
 
+
